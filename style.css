@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand&display=swap');
+
+html {
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.formulario {
+    background-color: grey;
+    text-align: center; 
+    border-radius: 3px;  
+}
+
+#pagomensual, #pagototal {
+    text-align: center;
+}
+
+input {
+    height: 25px;
+    border-radius: 5px;
+}
+
+.material-symbols-outlined {
+    font-weight: bolder;
+}
